@@ -23,19 +23,19 @@ I believe that **technology and humanity are not opposites**, I've spent years b
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 ```text
-💻  Build clean, functional web interfaces (HTML · CSS · JS · PHP)
-🎤  Train and mentor students in Public Speaking & Communication
-🏗️  Organize large-scale tech events and competitions
-🌐  Lead and grow tech communities in Bhairahawa, Nepal
-📜  Explore Sanskrit literature and Adhyatmik (spiritual) philosophy
+  Build clean, functional web interfaces (HTML · CSS · JS · PHP)
+  Train and mentor students in Public Speaking & Communication
+  Organize large-scale tech events and competitions
+  Lead and grow tech communities in Bhairahawa, Nepal
+  Explore Sanskrit literature and Adhyatmik (spiritual) philosophy
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -50,18 +50,18 @@ I believe that **technology and humanity are not opposites**, I've spent years b
 
 ---
 
-## 🏆 Leadership & Community
+##  Leadership & Community
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| 🌟 **Advisor** | NepTechTribe, Bhairahawa | 2025 – Present |
-| 📋 **Secretary** | NepTechTribe (Tech Community) | 2023 – 2025 |
-| 📋 **Secretary** | BMCIT Club, Bhairahawa Multiple Campus | 2023 – 2025 *(2 terms)* |
-| 🎤 **Mentor & Trainer** | CFC Rupandehi & Csitians | 2023 – Present |
+|  **Advisor** | NepTechTribe, Bhairahawa | 2025 – Present |
+|  **Secretary** | NepTechTribe (Tech Community) | 2023 – 2025 |
+|  **Secretary** | BMCIT Club, Bhairahawa Multiple Campus | 2023 – 2025 *(2 terms)* |
+|  **Mentor & Trainer** | CFC Rupandehi & Csitians | 2023 – Present |
 
 ---
 
-## 📌 Featured Project
+##  Featured Project
 
 ### 🕉️ [E-Karmakanda](https://github.com/sudhir010/E-karmakanda)
 > *Bridging ancient tradition with modern technology*
@@ -74,25 +74,25 @@ A web platform that **digitizes traditional Hindu religious (Karmakanda) service
 
 ---
 
-## 🎯 Events I've Organised
+##  Events I've Organised
 
 ```
-🏅  Code Olympiad 2081          — Major collegiate coding competition, Bhairahawa
-🧮  District-Level DSA Contest  — Rupandehi District, multi-college participation
-🎤  Public Speaking Workshops   — Across colleges in Gandaki Province
-🤝  Various Social & Tech Events — Community volunteering & collaboration
+  Code Olympiad 2081          — Major collegiate coding competition, Bhairahawa
+  District-Level DSA Contest  — Rupandehi District, multi-college participation
+  Public Speaking Workshops   — Across colleges in Gandaki Province
+  Various Social & Tech Events — Community volunteering & collaboration
 ```
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Frontend Development Intern** - *Techbot Nepal Pvt. Ltd.*
 `Sep 2025 – Jan 2026` | Built real-world web interfaces, collaborated with dev teams, and sharpened skills in responsive design.
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Year |
 |--------|------------|------|
@@ -103,7 +103,7 @@ A web platform that **digitizes traditional Hindu religious (Karmakanda) service
 
 ---
 
-## 🌿 Beyond Code
+##  Beyond Code
 
 I hold a **Shastrī degree in Sanskrit** and am actively working on **Adhyatmik (spiritual/philosophical) projects**, exploring the intersection of ancient wisdom and modern life. For me, this isn't separate from technology; it's the *why* behind what I build.
 
@@ -111,7 +111,7 @@ I hold a **Shastrī degree in Sanskrit** and am actively working on **Adhyatmik 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
